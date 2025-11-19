@@ -26,6 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img src="https://i.imgur.com/kG98uVZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cbV4B4U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 If someone has an issue than they would go to the OSTicket support center that you have set up and open a new ticket. They would then fill out the ticket then send it through to the support desk. The client may also check the status of their tickets from the support center as well.
@@ -33,7 +34,8 @@ If someone has an issue than they would go to the OSTicket support center that y
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j7gEnWM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UCm6fzE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 Once the support team gets the ticket they would read it then determine what SLA level to give the ticket. The ticket will then be assigned to someone who is able to fix the issue, if no one is able to available then depending on the SLA level of the ticket would either have to become immediate priority or be something that is pushed back for later. If it is something fairly easy and there are no high priority tickets coming in then the ticket may not be distributed and might be fixed by the distributor instead. Throughout the process the support team can put notes on the status of the ticket, as well as reasoning behind any work they did or why a ticket became a certain SLA level.
