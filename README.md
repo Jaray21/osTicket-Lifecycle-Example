@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kG98uVZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 If someone has an issue than they would go to the OSTicket support center that you have set up and open a new ticket. They would then fill out the ticket then send it through to the support desk. The client may also check the status of their tickets from the support center as well.
